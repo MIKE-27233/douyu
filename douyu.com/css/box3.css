@@ -1,0 +1,29 @@
+.zhushi1{
+    width: auto;
+    height: auto;
+    background: white;
+    position: absolute;
+}
+.biaotilan{
+    text-decoration: none;
+    color: black;
+    height: 60px;
+    text-align: left;
+    line-height: 60px;
+}
+.xiaochaungkou:hover{
+    background-size: contain;
+}
+.cfdl1{
+    float: left;
+    margin-right: 12px;
+}
+.box3,.box4,.box5{
+    float: left;
+}
+.box3{
+    margin:10px 0 0 100px;
+}
+.box4,.box5{
+    margin:10px 0 0 12px;
+}
